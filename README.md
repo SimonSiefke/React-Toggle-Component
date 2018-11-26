@@ -1,5 +1,9 @@
 # React Toggle Component
 
+## Demo
+
+[![Edit react-toggle-component-demo](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/n74n5ypmj)
+
 ## Installation
 
 ```bash
