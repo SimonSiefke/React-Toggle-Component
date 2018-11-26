@@ -1,6 +1,6 @@
 {
   "name": "@simon-siefke/react-toggle-component",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "A toggle component for react",
   "main": "build/index.js",
   "scripts": {
