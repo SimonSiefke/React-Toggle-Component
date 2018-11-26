@@ -1,6 +1,6 @@
 {
   "name": "@simon-siefke/react-toggle-component",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A toggle component for react",
   "main": "build/index.js",
   "scripts": {
@@ -10,6 +10,14 @@
     "test": "node scripts/test.js --env=jsdom",
     "deploy": "npm run build && npm publish --access public"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimonSiefke/React-Toggle-Component.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SimonSiefke/React-Toggle-Component/issues"
+  },
+  "homepage": "https://github.com/SimonSiefke/React-Toggle-Component#readme",
   "author": "Simon Siefke <simon.siefke@gmail.com>",
   "license": "MIT",
   "dependencies": {
