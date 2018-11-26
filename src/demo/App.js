@@ -1,12 +1,14 @@
-import React from 'react';
-import Example from '../lib';
-import { SecondExample } from '../lib';
+import React from 'react'
+import Toggle from '../lib'
 
 const App = () => (
   <div>
-    <Example />
-    <SecondExample />
+    <Toggle>
+      {({ on, toggle }) => (
+        <p onClick={toggle}>The light is {on ? 'on' : 'off'}</p>
+      )}
+    </Toggle>
   </div>
-);
+)
 
-export default App;
+export default App

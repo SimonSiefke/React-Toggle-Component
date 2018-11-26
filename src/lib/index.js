@@ -1,8 +1,3 @@
-import Example from './components/Example';
-import SecondExample from './components/SecondExample';
+import Example from './components/Toggle';
 
 export default Example;
-
-export {
-  SecondExample,
-};
